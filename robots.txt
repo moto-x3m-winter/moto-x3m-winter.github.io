@@ -3,4 +3,4 @@ Disallow: /admin
 
 Allow: /sitemap.xml
 
-Sitemap:https://block-breaker.gitlab.io/sitemap.xml
+Sitemap:https://cupcake2048.gitlab.io/sitemap.xml
