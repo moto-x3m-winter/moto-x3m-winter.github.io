@@ -3,4 +3,4 @@ Disallow: /admin
 
 Allow: /sitemap.xml
 
-Sitemap:https://cupcake2048.gitlab.io/sitemap.xml
+Sitemap:https://moto-x3m-winter.github.io/sitemap.xml
